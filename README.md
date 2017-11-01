@@ -1,0 +1,2 @@
+# LotteryExcercise
+A Lottery game.
